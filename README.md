@@ -1,49 +1,22 @@
 ---
-# YOUR-NAME (eg. Chandra Arya)
+# YOUR-NAME  (jawza subai  )
 YOUR-introduction
-Eg. Software and DevOps engineer, Cloud architect, Instructor.
+SDA student DevOps
 
-<div id="webaddress">
-<a href="chandradeoarya@gmail.com">chandradeoarya@gmail.com</a>
-| <a href="http://chandradeoarya.com">My Tech blog</a>
-</div>
+<a href="jawza3.2005@gmail.com">
+
 
 
 ## Currently
-YOUR-JOB/STUDY
-Lead DevOps instructor at Coding Dojo
+student
 
-### Specialized in
-
-AWS Cloud, Linux, AWS cloud & services, SDLC, Iac, git, ansible, jenkins, monitoring, docker , k8s, DevSecOps, build tools, distributed systems
 
 
 
 ## Education
 
-NAME of your Uni
+TAIF University
 
-
-
-## Awards
-
-LIST of award
-
-
-
-## Publications
-
-Gait analysis based human recognition system `April 2016`
-
-## Occupation
-YOUR-job/study
-`Codingdojo` — Lead DevOps Cloud instructor
-
-## Projects
-
-ANY project
-
-<!-- ### Footer
 
 Last updated: June 2022 -->
 
