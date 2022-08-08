@@ -6,7 +6,6 @@ SDA student DevOps
 <a href="jawza3.2005@gmail.com">
 
 
-
 ## Currently
 SDA student 
 
@@ -18,5 +17,5 @@ SDA student
 TAIF University
 
 
-Last updated: agust 2022 -->
+Last updated: agust 2022 
 
